@@ -1,6 +1,5 @@
+driver.switchTo().alert().accept();
 
+driver.SwitchTo().alert().dismiss();
 
-findElement returns first single webElement element that matches with xpath .
-findElements returns list of webelements.
- 
- 
+ driver.SwitchTo().alert().getTest();
