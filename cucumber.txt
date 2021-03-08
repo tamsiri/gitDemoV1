@@ -1,0 +1,5 @@
+Scenario :Executes the test steps only once in feature file
+
+ScenarioOutline:it repeats the same teststeps with multiple times with different data 
+followes with Examples keyword 
+    
