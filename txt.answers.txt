@@ -1,0 +1,1 @@
+page object model is a design pattern used in automation  that creats pages for each webpage  for every webElements and also contains the page methods perform on those webelemnts. 
